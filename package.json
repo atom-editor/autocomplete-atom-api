@@ -1,12 +1,12 @@
 {
   "name": "autocomplete-atom-api",
-  "version": "0.10.7",
+  "version": "0.11.0",
   "description": "Atom API autocompletions",
   "main": "./lib/main",
-  "license": "MIT",
-  "repository": "https://github.com/atom/autocomplete-atom-api",
+  "license": "CORE",
+  "repository": "https://github.com/atom-editor/autocomplete-atom-api",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=0.174.0 <3.0.0"
   },
   "providedServices": {
     "autocomplete.provider": {
